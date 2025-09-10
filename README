@@ -1,0 +1,7 @@
+# Ostendo Proxy API
+
+## Setup
+
+1. Clone this repo
+2. Run `npm install`
+3. Create a `.env` file with your Ostendo API key:
